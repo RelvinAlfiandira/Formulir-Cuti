@@ -5,3 +5,5 @@
 # integrasi sistem
 
 # set up prisma
+
+# planning lain
