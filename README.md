@@ -6,9 +6,6 @@
 
 # TEST BACKEND
 
-# LIBUR DULU
+# gasken
 
-# LIBUR LAGI
-
-# LIBURRR
 
